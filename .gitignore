@@ -1,0 +1,4 @@
+media
+manim.cfg
+__pycache__/
+.env
